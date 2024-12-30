@@ -1,1 +1,1 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)
+[![tech stack](https://flat.badgen.net/badge/tech stack/link/orange)](https://parsany.github.io/c/skills)
