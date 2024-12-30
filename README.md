@@ -1,5 +1,10 @@
 tech stack: <a href="https://parsany.github.io/c/skills">
-<image src="https://img.shields.io/badge/Link-orange" height="20" align="center">
+<image src="https://img.shields.io/badge/Link-orange" height="20" align="center" target=”_blank”>
+</a>
+
+tech stack: 
+<a href="https://parsany.github.io/c/skills" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Link-orange" height="20" alt="Link">
 </a>
 
 
