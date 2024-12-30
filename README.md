@@ -1,1 +1,3 @@
-[![Website](https://flat.badgen.net/badge/tech_stack/link/orange)](https://parsany.github.io/c/skills)
+tech stack: [![Website](https://flat.badgen.net/badge/color/Link/orange?label=)](https://parsany.github.io/c/skills)
+
+<!-- CV: [![Website](https://flat.badgen.net/badge/color/Link/orange?label=)](https://parsany.github.io/c/skills) -->
