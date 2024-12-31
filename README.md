@@ -10,7 +10,7 @@
 
 </div> -->
 
-<p><a href="www.parsany.github.io/c"><img src="./src/bg2.png" height="auto"/></a></p>
+<a href="www.parsany.github.io/c"><img src="./src/bg2.png" height="auto"/></a>
 
   
 Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an AI engineer. I specialize in Web Development, Programming, Machine learning and AI. I love to network, join new communities and add value ⚡️
@@ -86,12 +86,9 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 </br>
 
 -------------------------
+</br>
 
 
-
-<img width="20%" src="./src/tech.svg"/>
-
-<div style="display: flex; align-items: center;">
-    <p style="margin: 0; padding-right: 10px;">websfite:</p>
-    <img align="right" width="20%" src="./src/next.svg" alt="Next Icon" />
-</div>
+<img width="15%" src="./src/tech.svg" alt="tech Icon"/>
+</br>
+<img  width="20%" src="./src/next.svg" alt="Next Icon" />
