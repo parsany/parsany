@@ -10,7 +10,7 @@
 
 </div> -->
 
-<p><img src="./src/bg.png" height="auto"/></p>
+<p><img src="./src/bg2.png" height="auto"/></p>
 
 <p>
   
