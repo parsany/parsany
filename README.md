@@ -10,8 +10,6 @@
 
 </div> -->
 
----
-
 <p><img src="./src/bg.png" height="auto"/></p>
 
 <p>
@@ -53,11 +51,11 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
 <div style="display: flex; justify-content: space-between;">
   <p align="left">
     <a href="https://github.com/parsany/">
-      <img width="80%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+      <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
     </a>
     <br />
     <a href="https://github.com/parsany/">
-      <img width="80%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+      <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
     </a>
   </p>
   <p align="right">
@@ -66,7 +64,7 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
     </a>
     <br />
     <a href="https://github.com/parsany?tab=repositories&sort=stargazers">
-      <img  width="110%" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fparsany"/>
+      <img  width="40%" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fparsany"/>
     </a>
     <br />
     <a href="https://github.com/parsany?tab=followers">
