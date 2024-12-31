@@ -89,10 +89,9 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 
 
 
+<img width="20%" src="./src/tech.svg"/>
 
-![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYuODMzMzM2ODMwMTM5MTYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzYuODMzMzM2ODMwMTM5MTYgMzUiPjxyZWN0IHdpZHRoPSIxMDcuODAwMDAzMDUxNzU3ODEiIGhlaWdodD0iMzUiIGZpbGw9IiNlYjc5MjQiLz48cmVjdCB4PSIxMDcuODAwMDAzMDUxNzU3ODEiIHdpZHRoPSIyOS4wMzMzMzM3NzgzODEzNDgiIGhlaWdodD0iMzUiIGZpbGw9IiMyYjJhMzMiLz48dGV4dCB4PSI1My45MDAwMDE1MjU4Nzg5MDYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzEwMTAxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRFQ0ggU1RBQ0s8L3RleHQ+PHRleHQgeD0iMTIyLjMxNjY2OTk0MDk0ODQ5IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiI+ICZndDs8L3RleHQ+PC9zdmc+)
-
-
-[![forthebadge](./src/next.svg](https://parsany.github.io/c)
-
-<img width="20%" src="./src/next.svg"/>
+<div style="display: flex; align-items: center;">
+    <p style="margin: 0; padding-right: 10px;">website:</p>
+    <img width="20%" src="./src/next.svg" alt="Next Icon" />
+</div>
