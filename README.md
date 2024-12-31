@@ -56,11 +56,11 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 ## 📘 My top open source projects
 
 
-<a href="https://github.com/parsany/">
+<a href="https://github.com/parsany/CatRecognition">
   <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
 
-<a href="https://github.com/parsany/">
+<a href="https://github.com/parsany/PID_NN">
   <img href="https://github.com/parsany/" width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
 
@@ -93,8 +93,12 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 -------------------------
 </br>
 
-<a href="parsany.github.io/c/skills">
-  <img width="15%" src="./src/tech.svg" alt="tech Icon"/>
+
+<a href="https://parsany.github.io/c/skills">
+  <img width="15%" src="./src/tech.svg" alt="custom-icon-badges">
 </a>
 </br>
-<img  width="20%" src="./src/next.svg" alt="Next Icon" />
+<a href="https://parsany.github.io/c">
+  <img width="15%" src="./src/next.svg" alt="custom-icon-badges">
+</a>
+
