@@ -10,9 +10,8 @@
 
 </div> -->
 
-<p><img src="./src/bg2.png" height="auto"/></p>
+<p><a href="www.parsany.github.io/c"><img src="./src/bg2.png" height="auto"/></a></p>
 
-<p>
   
 Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an AI engineer. I specialize in Web Development, Programming, Machine learning and AI. I love to network, join new communities and add value ⚡️
 
