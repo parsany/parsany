@@ -68,7 +68,7 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
     </a>
     <br />
     <a href="https://github.com/parsany?tab=followers">
-      <img alt="followers" title="Follow me on Github"  width="110%" src="https://custom-icon-badges.herokuapp.com/github/followers/parsany?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      <img alt="followers" title="Follow me on Github"  width="40%" src="https://custom-icon-badges.herokuapp.com/github/followers/parsany?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
     <br />
     <a href="https://parsany.github.io/c/skills">
