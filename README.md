@@ -93,5 +93,5 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 
 <div style="display: flex; align-items: center;">
     <p style="margin: 0; padding-right: 10px;">website:</p>
-    <img width="20%" src="./src/next.svg" alt="Next Icon" />
+    <img align="right" width="20%" src="./src/next.svg" alt="Next Icon" />
 </div>
