@@ -60,7 +60,7 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
   </p>
   <p align="right">
     <a href="https://github.com/parsany?tab=repositories&sort=stargazers">
-      <img width="110%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+      <img width="40%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
     <br />
     <a href="https://github.com/parsany?tab=repositories&sort=stargazers">
@@ -72,7 +72,7 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
     </a>
     <br />
     <a href="https://parsany.github.io/c/skills">
-      <img alt="tech stack" title="Tech Stack"  width="110%" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYuODMzMzM2ODMwMTM5MTYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzYuODMzMzM2ODMwMTM5MTYgMzUiPjxyZWN0IHdpZHRoPSIxMDcuODAwMDAzMDUxNzU3ODEiIGhlaWdodD0iMzUiIGZpbGw9IiNlYjc5MjQiLz48cmVjdCB4PSIxMDcuODAwMDAzMDUxNzU3ODEiIHdpZHRoPSIyOS4wMzMzMzM3NzgzODEzNDgiIGhlaWdodD0iMzUiIGZpbGw9IiMyYjJhMzMiLz48dGV4dCB4PSI1My45MDAwMDE1MjU4Nzg5MDYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzEwMTAxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRFQ0ggU1RBQ0s8L3RleHQ+PHRleHQgeD0iMTIyLjMxNjY2OTk0MDk0ODQ5IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiI+ICZndDs8L3RleHQ+PC9zdmc+"/>
+      <img alt="tech stack" title="Tech Stack"  width="40%" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYuODMzMzM2ODMwMTM5MTYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzYuODMzMzM2ODMwMTM5MTYgMzUiPjxyZWN0IHdpZHRoPSIxMDcuODAwMDAzMDUxNzU3ODEiIGhlaWdodD0iMzUiIGZpbGw9IiNlYjc5MjQiLz48cmVjdCB4PSIxMDcuODAwMDAzMDUxNzU3ODEiIHdpZHRoPSIyOS4wMzMzMzM3NzgzODEzNDgiIGhlaWdodD0iMzUiIGZpbGw9IiMyYjJhMzMiLz48dGV4dCB4PSI1My45MDAwMDE1MjU4Nzg5MDYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzEwMTAxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRFQ0ggU1RBQ0s8L3RleHQ+PHRleHQgeD0iMTIyLjMxNjY2OTk0MDk0ODQ5IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiI+ICZndDs8L3RleHQ+PC9zdmc+"/>
     </a>
   </p>
 </div>
