@@ -58,9 +58,9 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
   <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
 
-<a href="https://github.com/parsany/">
-  <img href="https://github.com/parsany/" width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-</a>
+
+<img href="https://github.com/parsany/" width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+
 
 
 
