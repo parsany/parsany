@@ -12,7 +12,7 @@
 
 ---
 
-<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<!-- <a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a> -->
 
 <br/>
 
@@ -44,7 +44,7 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
 
 ## 🔥 Github Stats
 
-<img align="right" width="46%" src="./src/city.png"/>
+<img align="right" width="43%" src="./src/city.png"/>
 
 <a href="https://github.com/Parsany"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=parsany&show_icons=true&theme=cobalt&bg_color=00000000"></a>
 <a href="https://github.com/Parsany"><img width="50%" src="https://nirzak-streak-stats.vercel.app?user=parsany&theme=cobalt"></a>
