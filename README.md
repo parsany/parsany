@@ -14,7 +14,7 @@
 <!-- **f** -->
 
 <a href="https://www.parsany.github.io/c">
-  <img src="./src/bg2.png" height="auto"/>
+  <img src="./src/bg0.png" height="auto"/>
 </a>
 
   
@@ -86,19 +86,6 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 </a>
 
 
-<p>    </p>
-</br>
-</br>
-
--------------------------
-</br>
-
-
 <a href="https://parsany.github.io/c/skills">
-  <img width="15%" src="./src/tech.svg" alt="custom-icon-badges">
+  <img  align="right"  width="20%" src="./src/tech.svg" alt="custom-icon-badges">
 </a>
-</br>
-<a href="https://parsany.github.io/c">
-  <img width="15%" src="./src/next.svg" alt="custom-icon-badges">
-</a>
-
