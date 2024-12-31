@@ -12,9 +12,7 @@
 
 ---
 
-<!-- <a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a> -->
-
-<br/>
+<p><img src="./src/bg.png" height="auto"/></p>
 
 <p>
   
