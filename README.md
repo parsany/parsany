@@ -13,7 +13,9 @@
 
 <!-- **f** -->
 
-<a href="www.parsany.github.io/c"><img src="./src/bg2.png" height="auto"/></a>
+<a href="www.parsany.github.io/c">
+  <img src="./src/bg2.png" height="auto"/>
+</a>
 
   
 Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an AI engineer. I specialize in Web Development, Programming, Machine learning and AI. I love to network, join new communities and add value ⚡️
@@ -58,9 +60,9 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
   <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
 
-
-<img href="https://github.com/parsany/" width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-
+<a href="https://github.com/parsany/">
+  <img href="https://github.com/parsany/" width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+</a>
 
 
 
@@ -91,7 +93,8 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 -------------------------
 </br>
 
-
-<img width="15%" src="./src/tech.svg" alt="tech Icon"/>
+<a href="parsany.github.io/c/skills">
+  <img width="15%" src="./src/tech.svg" alt="tech Icon"/>
+</a>
 </br>
 <img  width="20%" src="./src/next.svg" alt="Next Icon" />
