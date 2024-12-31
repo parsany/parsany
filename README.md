@@ -94,3 +94,5 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 
 
 [![forthebadge](./src/next.svg](https://parsany.github.io/c)
+
+<img width="20%" src="./src/next.svg"/>
