@@ -14,7 +14,7 @@
 
 <p>
   
-Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engineer. I specialise in Web Development, Programming, Machine learning and AI. I love to network, join new communities and add value ⚡️
+Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an AI engineer. I specialize in Web Development, Programming, Machine learning and AI. I love to network, join new communities and add value ⚡️
 
 <div>
 <details>
