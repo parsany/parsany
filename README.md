@@ -52,7 +52,7 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
   <!-- left -->
-  <div style="flex: 1; min-width: 40%;">
+  <div style="flex: 1; min-width: 10%;">
     <a href="https://github.com/parsany/">
       <img width="50%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
     </a>
