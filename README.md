@@ -49,29 +49,6 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
 ## 📘 My top open source projects
 
 
-<a href="https://github.com/parsany?tab=repositories&sort=stargazers">
-  <img align="right" width="20%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
-</a>
-</br>
-</br>
-<a href="https://github.com/parsany?tab=repositories&sort=stargazers">
-  <img  align="right" width="20%" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fparsany"/>
-</a>
-</br>
-</br>
-<a href="https://github.com/parsany?tab=followers">
-  <img align="right" alt="followers" title="Follow me on Github"  width="20%" src="https://custom-icon-badges.herokuapp.com/github/followers/parsany?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-</a>
-</br>
-</br>
-<a href="https://parsany.github.io/c/skills">
-  <img align="right" alt="tech stack" title="Tech Stack"  width="20%" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYuODMzMzM2ODMwMTM5MTYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzYuODMzMzM2ODMwMTM5MTYgMzUiPjxyZWN0IHdpZHRoPSIxMDcuODAwMDAzMDUxNzU3ODEiIGhlaWdodD0iMzUiIGZpbGw9IiNlYjc5MjQiLz48cmVjdCB4PSIxMDcuODAwMDAzMDUxNzU3ODEiIHdpZHRoPSIyOS4wMzMzMzM3NzgzODEzNDgiIGhlaWdodD0iMzUiIGZpbGw9IiMyYjJhMzMiLz48dGV4dCB4PSI1My45MDAwMDE1MjU4Nzg5MDYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzEwMTAxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRFQ0ggU1RBQ0s8L3RleHQ+PHRleHQgeD0iMTIyLjMxNjY2OTk0MDk0ODQ5IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiI+ICZndDs8L3RleHQ+PC9zdmc+"/>
-</a>
-
-
-
-
-
 <a href="https://github.com/parsany/">
   <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
@@ -80,15 +57,40 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
   <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
 
-  
 
 
 
-****
-  <div style="display: flex; align-items: center;">
-    <a href="https://parsany.github.io/c/"><img src="https://img.shields.io/badge/Website-parsany.github.io/c-blue" alt="Website" /></a>
-    <a href="https://parsany.github.io/c">
-      <img alt="tech stack" title="Tech Stack" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTAuNDY2NjY3MTc1MjkyOTciIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxOTAuNDY2NjY3MTc1MjkyOTcgMzUiPjxyZWN0IHdpZHRoPSIxMTQuOTY2NjY3MTc1MjkyOTciIGhlaWdodD0iMzUiIGZpbGw9IiMxZjFmMjUiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItYmFja2dyb3VuZC0zMWM0ZjMsICMwYThhYjMpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiLz48cmVjdCB4PSIxMTQuOTY2NjY3MTc1MjkyOTciIHdpZHRoPSI3NS41IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMmIyYTMzIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLWJhY2tncm91bmQtMzg5YWQ1LCAjMjM3M2E0KTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIi8+PHRleHQgeD0iNTcuNDgzMzMzNTg3NjQ2NDg0IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLXRleHQtZmZmZmZmLCAjZDBjYWMyKTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIj5QT1dFUkVEIEJZPC90ZXh0Pjx0ZXh0IHg9IjE1Mi43MTY2NjcxNzUyOTI5NyIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItdGV4dC1mZmZmZmYsICNkMGNhYzIpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiPk5FWFRKUzwvdGV4dD48L3N2Zz4="/>
-    </a>
-  </div>
+-------------------------
+<p>    </p>
+</br>
+
+
+<a href="https://github.com/parsany?tab=repositories&sort=stargazers">
+  <img align="right" width="20%" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
+
+
+<a href="https://github.com/parsany?tab=repositories&sort=stargazers">
+  <img  align="right" width="20%" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fparsany"/>
+</a>
+
+<a href="https://github.com/parsany?tab=followers">
+  <img align="right" alt="followers" title="Follow me on Github"  width="20%" src="https://custom-icon-badges.herokuapp.com/github/followers/parsany?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
+<a href="https://parsany.github.io/c/skills">
+  <img align="right" alt="tech stack" title="Tech Stack"  width="20%" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzYuODMzMzM2ODMwMTM5MTYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMzYuODMzMzM2ODMwMTM5MTYgMzUiPjxyZWN0IHdpZHRoPSIxMDcuODAwMDAzMDUxNzU3ODEiIGhlaWdodD0iMzUiIGZpbGw9IiNlYjc5MjQiLz48cmVjdCB4PSIxMDcuODAwMDAzMDUxNzU3ODEiIHdpZHRoPSIyOS4wMzMzMzM3NzgzODEzNDgiIGhlaWdodD0iMzUiIGZpbGw9IiMyYjJhMzMiLz48dGV4dCB4PSI1My45MDAwMDE1MjU4Nzg5MDYiIHk9IjIxLjUiIGZvbnQtc2l6ZT0iMTIiIGZvbnQtZmFtaWx5PSInUm9ib3RvJywgc2Fucy1zZXJpZiIgZmlsbD0iIzEwMTAxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjIiPlRFQ0ggU1RBQ0s8L3RleHQ+PHRleHQgeD0iMTIyLjMxNjY2OTk0MDk0ODQ5IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ01vbnRzZXJyYXQnLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iOTAwIiBsZXR0ZXItc3BhY2luZz0iMiI+ICZndDs8L3RleHQ+PC9zdmc+"/>
+</a>
+
+
+
+<p>    </p>
+</br>
+</br>
+
+-------------------------
+
+<a href="https://parsany.github.io/c">
+  <img alt="tech stack" title="Tech Stack" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTAuNDY2NjY3MTc1MjkyOTciIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxOTAuNDY2NjY3MTc1MjkyOTcgMzUiPjxyZWN0IHdpZHRoPSIxMTQuOTY2NjY3MTc1MjkyOTciIGhlaWdodD0iMzUiIGZpbGw9IiMxZjFmMjUiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItYmFja2dyb3VuZC0zMWM0ZjMsICMwYThhYjMpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiLz48cmVjdCB4PSIxMTQuOTY2NjY3MTc1MjkyOTciIHdpZHRoPSI3NS41IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMmIyYTMzIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLWJhY2tncm91bmQtMzg5YWQ1LCAjMjM3M2E0KTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIi8+PHRleHQgeD0iNTcuNDgzMzMzNTg3NjQ2NDg0IiB5PSIyMS41IiBmb250LXNpemU9IjEyIiBmb250LWZhbWlseT0iJ1JvYm90bycsIHNhbnMtc2VyaWYiIGZpbGw9IiNGRkZGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIyIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLXRleHQtZmZmZmZmLCAjZDBjYWMyKTsiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIj5QT1dFUkVEIEJZPC90ZXh0Pjx0ZXh0IHg9IjE1Mi43MTY2NjcxNzUyOTI5NyIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiIHN0eWxlPSItLWRhcmtyZWFkZXItaW5saW5lLWZpbGw6IHZhcigtLWRhcmtyZWFkZXItdGV4dC1mZmZmZmYsICNkMGNhYzIpOyIgZGF0YS1kYXJrcmVhZGVyLWlubGluZS1maWxsPSIiPk5FWFRKUzwvdGV4dD48L3N2Zz4="/>
+</a>
 
