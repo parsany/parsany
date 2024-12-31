@@ -51,10 +51,10 @@ Hi 👋. I am **Parsa Ny**, developer, computer science senior student, AI engin
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
     <a href="https://github.com/parsany/">
-      <img width="60%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+      <img width="10%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
     </a>
     <a href="https://github.com/parsany/">
-      <img width="60%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
+      <img width="10%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
     </a>
   </div>
   <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 10px;">
