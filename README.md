@@ -60,11 +60,24 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
   <img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=CatRecognition&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
 </a>
 
-<a href="https://github.com/parsany/PID_NN">
+<!-- <a href="https://github.com/parsany/PID_NN">
   <img href="https://github.com/parsany/" width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=parsany&repo=PID_NN&theme=cobalt&bg_color=2B2A33&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges">
-</a>
+</a> -->
 
 
+<div>
+<details>
+  <summary>🪬 Current Unfinished Projects</summary>
+
+- website: blog posts part is unfinished 
+- [QT Library](https://github.com/parsany/PyLibrary-QT): i written this 14 months ago but the code is really messy so i haven't pushed yet.
+- 2 university projects that i am currently working on
+- [PyJolt](https://github.com/parsany/Pyjolt): will start working on it after my exams.
+- [EvoAlg](https://github.com/parsany/EvolutionaryAlgo): written a year ago, i want to re-implement in PyJolt 
+
+</details>
+  
+</p>
 
 
 -------------------------
