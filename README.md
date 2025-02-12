@@ -66,16 +66,6 @@ Hi 👋. I am **Parsa Ny**, a developer, computer science senior student and an 
 
 
 <div>
-<details>
-  <summary>🪬 Current Unfinished Projects</summary>
-
-- website: blog posts part is unfinished 
-- [QT File Library](https://github.com/parsany/PyLibrary-QT): i written this 14 months ago but the code is really messy so i haven't pushed yet.
-- 2 university projects that i am currently working on
-- [PyJolt](https://github.com/parsany/Pyjolt): will start working on it after my exams.
-- [EvoAlg](https://github.com/parsany/EvolutionaryAlgo): written a year ago, i want to re-implement in PyJolt 
-
-</details>
   
 </p>
 
