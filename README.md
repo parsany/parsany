@@ -1,25 +1,10 @@
 
-<!-- CV: [![Website](https://flat.badgen.net/badge/color/Link/orange?label=)](https://parsany.github.io/c/skills) -->
-
-<!--
-<div align="center">
-
-  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
-
-</div> -->
-
-
-<!-- **f** -->
-
 <a href="https://www.parsany.github.io/c">
   <img src="./src/bg0.png" height="auto"/>
 </a>
 
   
 Hi 👋. **Parsa Ny**, a software engineer, computer science bachelor, AI engineer. currently shipping software (contact enquiry made on telegram or whatsapp) at lightspeed performance ⚡️
-
 
 
 
