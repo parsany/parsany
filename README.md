@@ -4,7 +4,8 @@
 </a>
 
   
-Hi 👋. **Parsa Ny**, a software engineer, computer science bachelor, AI engineer. currently shipping software (contact enquiry made on telegram or whatsapp) at lightspeed performance ⚡️
+Hi 👋. **Parsa Ny**, a software engineer, AI engineer and a computer science graduate. currently shipping software at lightspeed performance ⚡️
+contact enquiry made on telegram or whatsapp.
 
 
 
