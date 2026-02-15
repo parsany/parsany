@@ -1,5 +1,5 @@
 
-<a href="https://www.parsany.github.io/c">
+<a href="https://parsany.ir/">
   <img src="./src/bg0.png" height="auto"/>
 </a>
 
